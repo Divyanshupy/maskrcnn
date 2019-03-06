@@ -6,8 +6,8 @@
 
 **Semantic segmentation**
 
-![alt text](http://
-**https://www.pyimagesearch.com/wp-content/uploads/2018/11/mask_rcnn_segmentation_types.jpg**
+![alt
+text](**https://www.pyimagesearch.com/wp-content/uploads/2018/11/mask_rcnn_segmentation_types.jpg**
 
 /to/img.jpg)
 
