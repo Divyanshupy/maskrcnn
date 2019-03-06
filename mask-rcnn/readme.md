@@ -9,7 +9,7 @@
 ![alt
 text](**https://www.pyimagesearch.com/wp-content/uploads/2018/11/mask_rcnn_segmentation_types.jpg**
 
-/to/img.jpg)
+\-to-image)
 
 **Explaining the differences between traditional image classification, object
 detection, semantic segmentation, and instance segmentation is best done
